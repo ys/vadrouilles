@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://yannickschutz.com/$1",
+      "statusCode": 301
+    }
+  ]
+}
